@@ -1,0 +1,1 @@
+End-to-end user behavior testing is essential. We leverage Selenium and Cucumber to achieve this goal and to perform necessary regression testing as part of our continuous integration and deployment (CI/CD) cycle.
