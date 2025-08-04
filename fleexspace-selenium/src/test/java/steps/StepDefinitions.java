@@ -13,7 +13,7 @@ public class StepDefinitions {
     public void i_open_google() {
         System.setProperty("webdriver.chrome.driver", "chromedriver-mac-x64/chromedriver");
         driver = new ChromeDriver();
-        driver.get("https://www.google.com");
+        driver.get("https://www.fleexspace.cn");
     }
 
     @When("I search for {string}")
